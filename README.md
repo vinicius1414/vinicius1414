@@ -16,7 +16,7 @@
   ##
   
 
-- 🔭 I’m currently: procurando uma vaga na área de tecnologia
-- 🌱 I’m currently learning Java/Javascript/CSS/BD (DIO)
+- 🔭 Atualmente: estou cursando Ciência da Computação
+- 🌱 I’m currently learning Java/Javascript/CSS/BD/C# (DIO)
 - 😄 Pronouns: ele/dele
--->
+--> 
